@@ -25,3 +25,7 @@ MAINTAINERS
 Current maintainers:
 * ‪Malte D. Luecken (malte.luecken@helmholtz-muenchen.de)
 * Ciro Ramírez-Suástegui (ciro.suastegui@helmholtz-muenchen.de)
+
+CITATION
+-----------
+S Schmidt* , MD Luecken, D Trümbach, S Hembach, K Niedermeier, N Wenck, K Pflügler, C Stautner, A Böttcher, H Lickert, J Fitzgerald, V Ruf, W van de Berg, A Jonker, T Gasser, B Winner, Winkler Juergen, F Giesert, D Vogt Weisenhorn, FJ Theis, W Wurst, Primary cilia dysfunction as a convergence point in Parkinson's disease etiology, *In press*
