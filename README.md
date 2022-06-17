@@ -28,4 +28,4 @@ Current maintainers:
 
 CITATION
 -----------
-S Schmidt* , MD Luecken, D Trümbach, S Hembach, K Niedermeier, N Wenck, K Pflügler, C Stautner, A Böttcher, H Lickert, J Fitzgerald, V Ruf, W van de Berg, A Jonker, T Gasser, B Winner, Winkler Juergen, F Giesert, D Vogt Weisenhorn, FJ Theis, W Wurst, Primary cilia dysfunction as a convergence point in Parkinson's disease etiology, *In press*
+S Schmidt* , MD Luecken*, D Trümbach*, S Hembach, K Niedermeier, N Wenck, K Pflügler, C Stautner, A Böttcher, H Lickert, C Ramirez-Suastegui, R Ahmad, M Ziller, J Fitzgerald, V Ruf, WDJ van de Berg, A Jonker, T Gasser, B Winner, J Winkler, F Giesert, D Vogt Weisenhorn, FJ Theis, W Wurst, Primary cilia dysfunction as a convergence point in Parkinson's disease etiology, *In press*
