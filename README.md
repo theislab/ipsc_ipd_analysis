@@ -31,4 +31,4 @@ Current maintainers:
 
 CITATION
 -----------
-S Schmidt* , MD Luecken*, D Trümbach*, S Hembach, K Niedermeier, N Wenck, K Pflügler, C Stautner, A Böttcher, H Lickert, C Ramirez-Suastegui, R Ahmad, M Ziller, J Fitzgerald, V Ruf, WDJ van de Berg, A Jonker, T Gasser, B Winner, J Winkler, F Giesert, D Vogt Weisenhorn, FJ Theis, W Wurst, Primary cilia dysfunction as a convergence point in Parkinson's disease etiology, *In press*
+S Schmidt^, MD Luecken^, D Trümbach^, S Hembach, K Niedermeier, N Wenck, K Pflügler, C Stautner, A Böttcher, H Lickert, C Ramirez-Suastegui, R Ahmad, M Ziller, J Fitzgerald, V Ruf, WDJ van de Berg, A Jonker, T Gasser, B Winner, J Winkler, D Vogt Weisenhorn, F Giesert*, FJ Theis*, W Wurst*, Primary cilia and SHH signaling impairments in patient-derived cellular models of Parkinson’s disease, Nature Communications (in press).
