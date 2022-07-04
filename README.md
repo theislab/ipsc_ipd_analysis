@@ -4,7 +4,7 @@
 Analysis of Induced Pluripotent Stem Cells in Idiopathic Parkinson's Disease
 ------------
 
-Brief introduction to the project.
+Parkinson’s disease (PD) is a chronic neurodegenerative illness that arises from genetic and environmental factors. Underlying pathological mechanisms remain poorly understood. Using multiplexed single-cell RNA-seq, we analyze human neural precursor cells (hNPCs) from sporadic PD (sPD) patients. Here we collect the code used to analyse our data.
 
 REQUIREMENTS
 ------------
